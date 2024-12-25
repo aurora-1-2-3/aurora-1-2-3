@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aurora-1-2-3
-- 👀 I’m interested in programming, content creation and silliness
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in programming, content creation
+- 🌱 I’m currently learning HTML, CSS, Javascript and Rust
 - 💞️ I’m looking to collaborate on: **no**(now)
-- 📫 How to reach me: Discord: aurora_123_
+- 📫 How to reach me: Discord: triage.7z
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have no money
