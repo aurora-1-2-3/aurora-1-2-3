@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aurora-1-2-3
+- 👋 Hi, I’m Triage
 - 👀 I’m interested in programming, content creation
 - 🌱 I’m currently learning HTML, CSS, Javascript and Rust
 - 💞️ I’m looking to collaborate on: **no**(now)
