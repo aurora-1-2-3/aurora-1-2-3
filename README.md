@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Aurora
-- 👀 I’m interested in programming, content creation
-- 🌱 I’m currently learning HTML, CSS, Javascript and Rust
-- 💞️ I’m looking to collaborate on: **no**(now)
-- 📫 How to reach me: Discord: auro.rar
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have no money
+
